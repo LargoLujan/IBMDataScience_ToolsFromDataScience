@@ -117,7 +117,7 @@ This notebook was created as part of the IBM Data Science Professional Certifica
 
 This notebook has been shared on GitHub. Please visit the following link to access the repository:
 
-[GitHub Repository Link](#) (Replace with the actual link to your GitHub repository)
+[GitHub Repository Link](https://github.com/LargoLujan/IBMDataScience_ToolsFromDataScience/) (Replace with the actual link to your GitHub repository)
 
 ---
 
