@@ -107,7 +107,7 @@ This notebook covers key objectives to help you understand the essential tools a
 
 ## ✍️ Author
 
-**Author:** Manuel Pérez
+**Author:** Manuel Luján Vilchez
 
 This notebook was created as part of the IBM Data Science Professional Certificate program offered by Coursera.
 
